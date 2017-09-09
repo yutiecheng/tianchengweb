@@ -2,7 +2,7 @@
 <html lang="en">
     <head>
         <meta charset="UTF-8">
-        <title>Ê×Ò³</title>
+        <title>??</title>
     </head>
     <body>
         Hello,World!
